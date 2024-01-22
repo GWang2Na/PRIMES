@@ -1,0 +1,1 @@
+My MIT PRIMES-USA project with Prof. Laura Schaposnik, which generates models to correlate COVID-19 and Dengue; our paper is published in Scientific Reports with a title of "Correlations between COVID-19 and dengue obtained via the study of South America, Africa and Southeast Asia during the 2020s".
